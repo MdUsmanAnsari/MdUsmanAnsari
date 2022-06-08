@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="https://awesome-svg.vercel.app/card/card_1?name=MD.USMAN%20ANSARI&summary=Full-Stack%20Web%20Developer&style=nameColor:rgba(255,21,93,100);summaryColor:rgba(255,21,93,100);backgroundColor:rgba(255,255,255,1);" />
-
+<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.USMAN%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(244,34,150,1);summaryColor:rgba(232,49,150,1);backgroundColor:rgba(255,255,255,1);" />
 
 <!--
 **MdUsmanAnsari/MdUsmanAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
