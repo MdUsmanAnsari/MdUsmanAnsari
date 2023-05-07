@@ -6,9 +6,6 @@ I love to build things for the web and solve real-life problems using various la
 
 I also love to experiment with CSS and make cool stuff.
 
-[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdUsmanAnsari&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)]
-
-
 ## 🔗 Connect With Me 👇
 [![portfolio](https://img.shields.io/badge/my_portfolio-f3004b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdusmanansari.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdusmanansari/)
