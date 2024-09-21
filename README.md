@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.USMAN%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(244,34,150,1);summaryColor:rgba(232,49,150,1);backgroundColor:rgba(255,255,255,1);" />
+<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.USMAN%20ANSARI&summary=Frontend%20Developer&style=nameColor:rgba(244,34,150,1);summaryColor:rgba(232,49,150,1);backgroundColor:rgba(255,255,255,1);" />
 
 ### **About Me 🧑‍💻**
 
