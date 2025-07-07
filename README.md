@@ -8,4 +8,4 @@ In my free time, you can find me:
 - 🎨 Creating cool **CSS art** & animations 🌸
 - 🎥 Watching **K-Dramas** 🎥 and playing **games** 🎮
 
-You can find out more info and other social links [**on my portfolio**](https://mdusmanansari.com).
+You can find out more info and other social links [**mdusmanansari.com**](https://mdusmanansari.com).
